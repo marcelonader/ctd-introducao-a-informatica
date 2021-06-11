@@ -1,4 +1,4 @@
-# CTD - Introdução à Informática
+# CTD - Introdução à Informática <img src="https://assets.digitalhouse.com/content/br/ctd/intro.png" height="50px" width= "50px">
 
 
 >Projetos/Desafios realizados na disciplina de Introdução à Informática do Curso
